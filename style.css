@@ -1,0 +1,40 @@
+.container {
+    border: 2px solid red;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    border: 2px solid green;
+    text-align: center;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    border: 2px solid greenyellow;
+    padding: 10px 20px;
+}
+
+ul {
+    border: 2px solid violet;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    border: 2px solid yellow;
+    margin-bottom: 10px;
+}
+
+.completed {
+    border: 2px solid darkred;
+    text-decoration: line-through;
+    color: gray;
+}
